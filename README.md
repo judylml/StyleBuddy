@@ -1,5 +1,5 @@
 <h1>StyleBuddy</h1>
-<h3>Created by Judy Lee, Kate Saychaleun, Megan Ong, Raifah Rahman for girlCode x Aritzia 2023</h3>
+<h3>Created by Judy Lee, Kate Saychaleun, Megan Ong, & Raifah Rahman for girlCode x Aritzia 2023</h3>
 
 
 ## Inspiration
